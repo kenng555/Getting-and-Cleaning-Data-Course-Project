@@ -1,0 +1,23 @@
+The output of script run_analysis.R contains two files/data sets for the Test and Train data set.
+
+These two output data set contain the same columns summarising the readings captured by the cell 
+phone's accelerometer and gyroscope.
+
+The colums/variables for each resulting data set are as follow:
+
+1. Subject - Denoted the subject that performed the tested/training to which the data were 
+   captured for.
+2. Activity Code - The code corresponds to the activity performed
+3. Activity Name - The new of the activity performed
+4. tBodyAcc-mean()-X - the Average of the original measurement variable tBodyAcc-mean()-X grouped 
+                       by Subject and Activity Code	
+5. tBodyAcc-mean()-Y - the Average of the original measurement variable tBodyAcc-mean()-Y grouped 
+                       by Subject and Activity Code	
+6. tBodyAcc-mean()-Z - the Average of the original measurement variable tBodyAcc-mean()-Z grouped 
+                      by Subject and Activity Code	
+7. tBodyAcc-std()-X - the Average of the original measurement variable tBodyAcc-std()-X grouped 
+                      by Subject and Activity Code	
+8. tBodyAcc-std()-Y - the Average of the original measurement variable tBodyAcc-std()-Y grouped 
+                      by Subject and Activity Code	
+9. tBodyAcc-std()-Z - the Average of the original measurement variable tBodyAcc-std()-Z grouped 
+                      by Subject and Activity Code
